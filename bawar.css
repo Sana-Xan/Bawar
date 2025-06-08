@@ -434,11 +434,7 @@ section {
   transition: background-color 0.5s, border-color 0.5s;
 }
 
-.blog-box div {
-  padding-top: 10px;
-  border-radius: 10px;
-  transform: background-color 0.5s;
-}
+
 .blog-box p {
   color: var(--accent-02);
 }
